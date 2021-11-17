@@ -4,6 +4,7 @@ library(tidyverse)
 library(timetk)
 library(openxlsx)
 
+
 # Draws stock data from three individual industries (Tech, Heath, & Retail) 
 # Calculates portfolio value, portfolio cost, and positioning 
 # time_series_analysis graphs of the stocks by industry
